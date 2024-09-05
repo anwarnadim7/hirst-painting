@@ -1,5 +1,7 @@
 # Colorful Dots Art
 
+![Image Description](dot.png)
+
 ## Description
 
 This program uses the Turtle graphics library to create a colorful art piece consisting of randomly placed dots. The colors used are extracted from an image file using the Colorgram package.
